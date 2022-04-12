@@ -426,5 +426,3 @@ Ini adalah contoh membuat form validasi dengan menggunakan script atau javascrip
 2
 p align="center">
 	<img src="img\ss 13.jpg" alt="">
-
-
